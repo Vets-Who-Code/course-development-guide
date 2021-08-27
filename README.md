@@ -39,19 +39,7 @@ If a learner knows why they should learn something and values it, they are much 
 
 This also provides us an opportunity when designing a course to make sure we are only including lessons where we've evaluated the trade-offs and decided the lessons will be valued by the learners. 
 
-
-#### Objectives
-Inform the learner what they will be able to do when they complete the learning module. 
-
-A performance objective tells the learners what they will be able to do by the end of a lesson. 
-
-This describes the intended outcome of the course from the learners perspective. 
-
-*Ex. By completing this course the learner will have all the essential skills to be hired as a Frontend Developer.*
-
-> :warning: TODO: Provide a guide for how to write a solid overall objective. 
-
-> :warning: TODO: Provide a detailed description of how to write objectives with detailed examples. 
+#### Course Goals
 
 #### Prerequisites
 What other courses or skills do students need to complete the course.
@@ -63,6 +51,45 @@ A general table of contents listing high level section headings. Generally no de
 
 #### Next Step
 Describe what to do next. 
+
+## Write Learning Objectives
+Learning objectives are the key to effective lesson plans. Once you've got good learning objectives, preparing the rest of your lesson is much easier. Learning objectives give us a framework for deciding what to include in our training and what to leave out and provides a cohesive, logical path for our lessons. 
+
+Don't agonize over this process and end up with complicated, confusing, or vague objectives, though. A solid learning objective is specific, observable, and measurable. What would the learner need to do to prove they learned the lesson? 
+
+Follow these five steps:
+-	Identify the learner's needs
+-	Write the high-level goals for the training. What they are learning, and why is it important. 
+-	Decide on the critical content.
+-	Decide the level of learning for that critical content.
+-	Write a specific, observable, and measurable learning objective. 
+
+Example:
+  ### Learning the Command-Line Interface
+-	Students must demonstrate they can effectively use the CLI
+
+-	The students will learn to use the CLI to have greater control and flexibility over their projects and environments. 
+
+-	Critical Content:
+	  - The Shell and Environment
+    - Navigating the Filesystem
+    - Working with Files and Directories
+    - Running and Managing Programs
+
+-	The Level of Learning for each of the above elements is Application; the student will use their knowledge and understanding to complete a series of exercises. 
+
+-	Upon completion of this lesson, the student will setup a web development environment from scratch using only the command line that includes;
+    1. A project folder and files
+       - project-name/
+         - images/
+         - index.html – must include boilerplate linking styles.css and scripts.js.
+          - styles.css
+          - scripts.js
+    2. Install Node and Prettier – setting up prettier on the project
+    3. Initialize a Git repository and make initial commit.
+    4. Push repo to GitHub
+    -  **Extra Credit:** Do all this with a shell script
+
 
 ## Build Learning Activities
 Our goal is to create learning activities that lead to attaining the learning objectives. This means we create or select only activities that lead the learner directly to meeting each objective. 

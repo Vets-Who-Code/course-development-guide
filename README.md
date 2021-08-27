@@ -59,7 +59,7 @@ Don't agonize over this process and end up with complicated, confusing, or vague
 
 Follow these five steps:
 -	Identify the learner's needs
--	Write the high-level goals for the training. What they are learning, and why is it important. 
+-	Write the high-level goals for the lesson. What they are learning, and why is it important. 
 -	Decide on the critical content.
 -	Decide the level of learning for that critical content.
 -	Write a specific, observable, and measurable learning objective. 
@@ -79,7 +79,7 @@ Example:
 -	The Level of Learning for each of the above elements is Application; the student will use their knowledge and understanding to complete a series of exercises. 
 
 -	Upon completion of this lesson, the student will setup a web development environment from scratch using only the command line that includes;
-    1. A project folder and files
+    1. A project folder and files:
        - project-name/
          - images/
          - index.html – must include boilerplate linking styles.css and scripts.js.

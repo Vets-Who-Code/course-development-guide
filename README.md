@@ -1,5 +1,5 @@
-- [Building a Curriculum for VWC](#building-a-curriculum-for-vwc)
-  * [Curriculum Structure](#curriculum-structure)
+- [Building a Course for VWC](#building-a-course-for-vwc)
+  * [Course Structure](#course-structure)
     + [:factory: Folder Structure :factory:](#-factory--folder-structure--factory-)
     + [Root level READMEs](#root-level-readmes)
       - [Rationale](#rationale)
@@ -13,15 +13,15 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-# Building a Curriculum for VWC
-Keep in mind that laying out a well thought-out and comprehensive curriculum that achieves our organizational goals is an iterative process. We seek to continually improve the effectiveness of our courses by improving learning outcomes. 
+# Building a Course for VWC
+Keep in mind that laying out a well thought-out and comprehensive course that achieves our organizational goals is an iterative process. We seek to continually improve the effectiveness of our courses by improving learning outcomes. 
 
 Primary focus at the beginning is on writing learning objectives and an overall content structure to support those objectives. 
 
-## Curriculum Structure
+## Course Structure
 
 ### :factory: Folder Structure :factory:
-Repository is named after the course *ex: web-development-curriculum*
+Repository is named after the course *ex: web-development-course*
 
 Include a folder for each lesson within the module that will include that specific lessons activities and resources. 
 

@@ -9,7 +9,6 @@
       - [Next Step](#next-step)
   * [Build Learning Activities](#build-learning-activities)
   * [Evaluate the Learners Performance](#evaluate-the-learners-performance)
-  * [Provide Feedback on Performance.](#provide-feedback-on-performance)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -105,5 +104,4 @@ Example:
 ## Evaluate the Learners Performance
 > :warning: TODO: Provide a detailed example that shows how the outcomes from the activities will be used to evaluate how well a learner meets the overall performance objectives
 
-## Provide Feedback on Performance.
-> :warning: TODO: This section should provide instructors/mentors with a good reference on how to tie the learners performance back to the performance objective by providing either corrective or confirming feedback. 
+

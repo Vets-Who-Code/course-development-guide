@@ -71,10 +71,10 @@ Example:
 -	The students will learn to use the CLI to have greater control and flexibility over their projects and environments. 
 
 -	Critical Content:
-	  - The Shell and Environment
-    - Navigating the Filesystem
-    - Working with Files and Directories
-    - Running and Managing Programs
+	- The Shell and Environment
+	- Navigating the Filesystem
+	- Working with Files and Directories
+	- Running and Managing Programs
 
 -	The Level of Learning for each of the above elements is Application; the student will use their knowledge and understanding to complete a series of exercises. 
 

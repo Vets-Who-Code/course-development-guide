@@ -94,7 +94,13 @@ Example:
 ## Build Learning Activities
 Our goal is to create learning activities that lead to attaining the learning objectives. This means we create or select only activities that lead the learner directly to meeting each objective. 
 
-> :warning: TODO: Provide a detailed learning activity to accompany the example performance objectives from the previous section. 
+Learning activities should make up the majority of a lesson. A well-structured learning activity provides the opportunities to practice the new skill in isolation and with previously learned skills.
+
+Example:
+### Lesson name: Navigate the Filesystem
+- **Lesson Objective:**  On completion of this lesson, the student will be able to identify their current position in the filesystem, move in and out of directories, - and read the contents of a file.
+- **Learning Activity:** Terminal Capture the Flag - Learner navigates a series of folders to find a file with the Key. 
+- **Evaluation:** Learner completes the lesson by submitting the Keycode in the end-of-lesson quiz. 
 
 ## Evaluate the Learners Performance
 > :warning: TODO: Provide a detailed example that shows how the outcomes from the activities will be used to evaluate how well a learner meets the overall performance objectives

@@ -103,7 +103,7 @@ Our goal is to create learning activities that lead to attaining the learning ob
 Learning activities should make up the majority of a lesson. A well-structured learning activity provides the opportunities to practice the new skill in isolation and with previously learned skills.
 
 
-### Example Lesson: Navigate the Filesystem
+### Example for Lesson: Navigate the Filesystem
 - **Lesson Objective:**  On completion of this lesson, the student will be able to identify their current position in the filesystem, list folders and files, move in and out of folders, and read the contents of a file.
 - **Learning Activity:** Terminal Capture the Flag - Learner navigates a series of folders to find a file with the Key. 
 - **Evaluation:** Learner completes the lesson by submitting the Keycode in the end-of-lesson quiz. 
@@ -113,7 +113,17 @@ Testing is a natural part of learning. It helps the learner and teacher either c
 
 Testing shouldn't just be a multiple-choice quiz at the end of each lesson. In the example we've created above, finding the key in a capture the flag style exercise is a great way to ensure the learner meets all the lesson objectives while also providing a fun way of exploring and mastering their new skills. 
 
-If there are critical knowledge elements to the lesson, it's best to use recall style questions, fill in the blank style, or write about the topic, rather than multiple-choice style exams. 
+If there are critical knowledge elements to the lesson, it's best to use recall style questions, fill in the blank style, or to write about the topic, rather than multiple-choice style exams. 
+
+Here is a system for approaching evaluations:
+- **Task:** The task should be taken directly from the learning objectives.
+- **Conditions:** This defines the context or environment the evaluation will take place.
+- **Standard:** Describes the criteria used to determine whether or not the student meets the learning objective.
+
+### Example for Lesson: Navigate the Filesystem
+- **Task:** The student must navigate a series of folders and files to find a hidden key file in one of the folders. 
+- **Conditions:** Students are provided a zipped project folder that they will need to unzip and place on their desktop and use their terminal/shell of choice.
+- **Standard:** The student must navigate the project folder and find the provided key in under 5 minutes using only the commands taught in this lesson.
 
 All feedback should be either _corrective_, helping the learner identify gaps or mistakes in their understanding, or _confirming_, clearly indicating the learner has achieved the lesson objective. 
 

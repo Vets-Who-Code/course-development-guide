@@ -104,11 +104,9 @@ Example:
 ## Evaluate the Learners Performance
 Testing is a natural part of learning. It helps the learner and teacher either confirm whether or not the learner met the learning objective or identify if the learner needs help. 
 
-Testing shouldn't just be a multiple-choice quiz at the end of each lesson; we need to allow the learner to demonstrate their level of understanding through practical hands-on evaluations and identify any holes or mistakes. 
-
-In the example we've created above, finding the key in a capture the flag style exercise is a great way to ensure the learner meets all the lesson objectives while also providing a fun way of exploring and mastering their new skills. 
+Testing shouldn't just be a multiple-choice quiz at the end of each lesson. In the example we've created above, finding the key in a capture the flag style exercise is a great way to ensure the learner meets all the lesson objectives while also providing a fun way of exploring and mastering their new skills. 
 
 If there are critical knowledge elements to the lesson, it's best to use recall style questions, fill in the blank style, or write about the topic, rather than multiple-choice style exams. 
 
-All feedback should be either corrective, helping the learner identify gaps or mistakes in their understanding, or confirmative, clearly indicating the learner has achieved the lesson objective. 
+All feedback should be either _corrective_, helping the learner identify gaps or mistakes in their understanding, or _confirming_, clearly indicating the learner has achieved the lesson objective. 
 

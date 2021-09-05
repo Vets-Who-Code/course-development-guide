@@ -109,7 +109,7 @@ Learning activities should make up the majority of a lesson. A well-structured l
 - **Evaluation:** Learner completes the lesson by submitting the Keycode in the end-of-lesson quiz. 
 
 ## Evaluate the Learners Performance
-Testing is a natural part of learning. It helps the learner and teacher either confirm whether or not the learner met the learning objective or identify if the learner needs help. 
+Testing is a natural part of learning. It helps the learner and teacher either confirm if the learner met the learning objective or identify if the learner needs help. 
 
 Testing shouldn't just be a multiple-choice quiz at the end of each lesson. In the example we've created above, finding the key in a capture the flag style exercise is a great way to ensure the learner meets all the lesson objectives while also providing a fun way of exploring and mastering their new skills. 
 

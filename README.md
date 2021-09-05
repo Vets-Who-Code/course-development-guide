@@ -26,7 +26,11 @@ Include a folder for each lesson within the module that will include that specif
 
 Note: If you would like a specific folder order on Github displayed use a numbered prefix. As a rule of thumb start with a leading `0` example: `01`, `02`, `03` etc... this way folders will display top to bottom.
 
-> :warning: TODO: Include a sample file structure for people to use as a template.
+📁 **Course Folder:** contains Root level README as defined below.
+- 📁 **Module Folder:** contains module README.
+	 - 📁 **Lesson Folder:** Contains Lesson README and relevant references, activities, and examples.
+
+_Course's will have multiple modules and modules can have multiple lessons_
 
 ### Root level READMEs
 Includes a root level readme that includes:
@@ -39,6 +43,9 @@ If a learner knows why they should learn something and values it, they are much 
 This also provides us an opportunity when designing a course to make sure we are only including lessons where we've evaluated the trade-offs and decided the lessons will be valued by the learners. 
 
 #### Course Goals
+Course goals provide a high-level overview of what the learner will be able to accomplish once they've completed the course. The goals should be knowledge or skill-oriented and should be specific, observable, and measurable. 
+
+For VWC, the course goals are based on job descriptions and feedback from hiring managers in support of our larger organizational goals. 
 
 #### Prerequisites
 What other courses or skills do students need to complete the course.

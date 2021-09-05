@@ -97,11 +97,18 @@ Learning activities should make up the majority of a lesson. A well-structured l
 
 Example:
 ### Lesson name: Navigate the Filesystem
-- **Lesson Objective:**  On completion of this lesson, the student will be able to identify their current position in the filesystem, move in and out of directories, - and read the contents of a file.
+- **Lesson Objective:**  On completion of this lesson, the student will be able to identify their current position in the filesystem, list folders and files, move in and out of folders, and read the contents of a file.
 - **Learning Activity:** Terminal Capture the Flag - Learner navigates a series of folders to find a file with the Key. 
 - **Evaluation:** Learner completes the lesson by submitting the Keycode in the end-of-lesson quiz. 
 
 ## Evaluate the Learners Performance
-> :warning: TODO: Provide a detailed example that shows how the outcomes from the activities will be used to evaluate how well a learner meets the overall performance objectives
+Testing is a natural part of learning. It helps the learner and teacher either confirm whether or not the learner met the learning objective or identify if the learner needs help. 
 
+Testing shouldn't just be a multiple-choice quiz at the end of each lesson; we need to allow the learner to demonstrate their level of understanding through practical hands-on evaluations and identify any holes or mistakes. 
+
+In the example we've created above, finding the key in a capture the flag style exercise is a great way to ensure the learner meets all the lesson objectives while also providing a fun way of exploring and mastering their new skills. 
+
+If there are critical knowledge elements to the lesson, it's best to use recall style questions, fill in the blank style, or write about the topic, rather than multiple-choice style exams. 
+
+All feedback should be either corrective, helping the learner identify gaps or mistakes in their understanding, or confirmative, clearly indicating the learner has achieved the lesson objective. 
 

@@ -63,8 +63,8 @@ Follow these five steps:
 -	Decide the level of learning for that critical content.
 -	Write a specific, observable, and measurable learning objective. 
 
-Example:
-  ### Learning the Command-Line Interface
+
+  ### Example: Learning the Command-Line Interface
 -	Students must demonstrate they can effectively use the CLI
 
 -	The students will learn to use the CLI to have greater control and flexibility over their projects and environments. 
@@ -95,8 +95,8 @@ Our goal is to create learning activities that lead to attaining the learning ob
 
 Learning activities should make up the majority of a lesson. A well-structured learning activity provides the opportunities to practice the new skill in isolation and with previously learned skills.
 
-Example:
-### Lesson name: Navigate the Filesystem
+
+### Example Lesson: Navigate the Filesystem
 - **Lesson Objective:**  On completion of this lesson, the student will be able to identify their current position in the filesystem, list folders and files, move in and out of folders, and read the contents of a file.
 - **Learning Activity:** Terminal Capture the Flag - Learner navigates a series of folders to find a file with the Key. 
 - **Evaluation:** Learner completes the lesson by submitting the Keycode in the end-of-lesson quiz. 

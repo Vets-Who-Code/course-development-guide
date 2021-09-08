@@ -9,7 +9,6 @@
       - [Next Step](#next-step)
   * [Build Learning Activities](#build-learning-activities)
   * [Evaluate the Learners Performance](#evaluate-the-learners-performance)
-  * [Provide Feedback on Performance.](#provide-feedback-on-performance)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -27,7 +26,11 @@ Include a folder for each lesson within the module that will include that specif
 
 Note: If you would like a specific folder order on Github displayed use a numbered prefix. As a rule of thumb start with a leading `0` example: `01`, `02`, `03` etc... this way folders will display top to bottom.
 
-> :warning: TODO: Include a sample file structure for people to use as a template.
+📁 **Course Folder:** contains Root level README as defined below.
+- 📁 **Module Folder:** contains module README.
+	 - 📁 **Lesson Folder:** Contains Lesson README and relevant references, activities, and examples.
+
+_Course's will have multiple modules and modules can have multiple lessons_
 
 ### Root level READMEs
 Includes a root level readme that includes:
@@ -40,6 +43,9 @@ If a learner knows why they should learn something and values it, they are much 
 This also provides us an opportunity when designing a course to make sure we are only including lessons where we've evaluated the trade-offs and decided the lessons will be valued by the learners. 
 
 #### Course Goals
+Course goals provide a high-level overview of what the learner will be able to accomplish once they've completed the course. The goals should be knowledge or skill-oriented and should be specific, observable, and measurable. 
+
+For VWC, the course goals are based on job descriptions and feedback from hiring managers in support of our larger organizational goals. 
 
 #### Prerequisites
 What other courses or skills do students need to complete the course.
@@ -64,17 +70,17 @@ Follow these five steps:
 -	Decide the level of learning for that critical content.
 -	Write a specific, observable, and measurable learning objective. 
 
-Example:
-  ### Learning the Command-Line Interface
+
+  ### Example: Learning the Command-Line Interface
 -	Students must demonstrate they can effectively use the CLI
 
 -	The students will learn to use the CLI to have greater control and flexibility over their projects and environments. 
 
 -	Critical Content:
-	  - The Shell and Environment
-    - Navigating the Filesystem
-    - Working with Files and Directories
-    - Running and Managing Programs
+	- The Shell and Environment
+	- Navigating the Filesystem
+	- Working with Files and Directories
+	- Running and Managing Programs
 
 -	The Level of Learning for each of the above elements is Application; the student will use their knowledge and understanding to complete a series of exercises. 
 
@@ -94,10 +100,30 @@ Example:
 ## Build Learning Activities
 Our goal is to create learning activities that lead to attaining the learning objectives. This means we create or select only activities that lead the learner directly to meeting each objective. 
 
-> :warning: TODO: Provide a detailed learning activity to accompany the example performance objectives from the previous section. 
+Learning activities should make up the majority of a lesson. A well-structured learning activity provides the opportunities to practice the new skill in isolation and with previously learned skills.
+
+
+### Example for Lesson: Navigate the Filesystem
+- **Lesson Objective:**  On completion of this lesson, the student will be able to identify their current position in the filesystem, list folders and files, move in and out of folders, and read the contents of a file.
+- **Learning Activity:** Terminal Capture the Flag - Learner navigates a series of folders to find a file with the Key. 
+- **Evaluation:** Learner completes the lesson by submitting the Keycode in the end-of-lesson quiz. 
 
 ## Evaluate the Learners Performance
-> :warning: TODO: Provide a detailed example that shows how the outcomes from the activities will be used to evaluate how well a learner meets the overall performance objectives
+Testing is a natural part of learning. It helps the learner and teacher either confirm if the learner met the learning objective or identify if the learner needs help. 
 
-## Provide Feedback on Performance.
-> :warning: TODO: This section should provide instructors/mentors with a good reference on how to tie the learners performance back to the performance objective by providing either corrective or confirming feedback. 
+Testing shouldn't just be a multiple-choice quiz at the end of each lesson. In the example we've created above, finding the key in a capture the flag style exercise is a great way to ensure the learner meets all the lesson objectives while also providing a fun way of exploring and mastering their new skills. 
+
+If there are critical knowledge elements to the lesson, it's best to use recall style questions, fill in the blank style, or to write about the topic, rather than multiple-choice style exams. 
+
+Here is a system for approaching evaluations:
+- **Task:** The task should be taken directly from the learning objectives.
+- **Conditions:** This defines the context or environment the evaluation will take place.
+- **Standard:** Describes the criteria used to determine whether or not the student meets the learning objective.
+
+### Example for Lesson: Navigate the Filesystem
+- **Task:** The student must navigate a series of folders and files to find a hidden key file in one of the folders. 
+- **Conditions:** Students are provided a zipped project folder that they will need to unzip and place on their desktop and use their terminal/shell of choice.
+- **Standard:** The student must navigate the project folder and find the provided key in under 5 minutes using only the commands taught in this lesson.
+
+All feedback should be either _corrective_, helping the learner identify gaps or mistakes in their understanding, or _confirming_, clearly indicating the learner has achieved the lesson objective. 
+
